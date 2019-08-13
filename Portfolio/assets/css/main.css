@@ -1562,6 +1562,7 @@ input, select, textarea {
 			.project-container{
 				display:flex;
 				justify-content: space-around;
+				text-decoration: none;
 			}
 			.box1, .box2{
 				text-align: center;
